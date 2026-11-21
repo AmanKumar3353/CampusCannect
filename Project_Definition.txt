@@ -1,0 +1,25 @@
+PROJECT DEFINITION — CAMPUSCONNECT
+
+Introduction
+CampusConnect is a college event discovery and registration portal. It provides a common digital platform where students can explore upcoming college events, read event details, register for activities and contact the organising team. An admin area supports event management and review of registrations and messages.
+
+Problem Statement
+Event information is often shared across different channels. Students may miss announcements or find it difficult to track event details and registration information. Organisers also need a structured way to publish events and review student responses.
+
+Objectives
+1. Display upcoming college events in an organised interface.
+2. Allow students to search and filter events.
+3. Provide event details and an online registration form.
+4. Validate student input using JavaScript.
+5. Provide admin pages to manage events and review registrations/messages.
+6. Create a responsive interface for desktop, tablet and mobile.
+
+Modules
+Student: Home, Events, Event Details, Register, My Registrations, Contact.
+Admin: Login, Dashboard, Manage Events, Registrations, Messages.
+
+Technology Used
+HTML5 for page structure, CSS3 for responsive design, JavaScript for validation and client-side functionality, and browser localStorage for demonstration data persistence.
+
+Scope and Limitation
+This academic prototype demonstrates front-end workflows. It does not include a remote server, PHP, MySQL, real user authentication or multi-device data synchronisation.
